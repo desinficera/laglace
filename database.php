@@ -1,8 +1,8 @@
 <?php
 //define parameters
 $host = "localhost";
-$login = "phpuser"; //use differenct account if necessary
-$password = "phpuser"; //use the correct password for the account
+$login = "theartist"; //use differenct account if necessary
+$password = "password"; //use the correct password for the account
 $database = "icecream";
 
 //connect to mysql server
