@@ -20,7 +20,7 @@ require("includes/header.php")
     </head>
     <body>
         <h2>Welcome to La Glace</h2>
-        <p>It's all good, You've found the right place. La Glace caters to everyone. We offer vegan, gluten free, lactose free, and fat free options. so head on over to our menu and take a look for yourself! If you have any suggestions for ice cream flavors that fit your dietary needs, please visit our "contact us" page. Enjoy!</p>
+        <p>It's all good, you've found the right place. La Glace caters to everyone. We offer vegan, gluten free, lactose free, and fat free options. so head on over to our menu and take a look for yourself! If you have any suggestions for ice cream flavors that fit your dietary needs, please visit our "contact us" page. Enjoy!</p>
         <?php
         // put your code here
         ?>
