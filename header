@@ -16,12 +16,12 @@
 <body>
 <table width="100%" cellspacing="0" cellpadding="8" border="0">
 	<tr>
-		<td id="banner">MySQL Data Access with PHP</td>
+		<td id="banner">la glace</td>
 	</tr>
 	<tr>
 		<td id="navbar">
     	<!-- This is the navigation bar -->
-        <a href="index.php">Home</a> || <a href="listusers.php">List users</a> || <a href="newuser.php">Add user</a>
+        <a href="index.php">Home</a> || <a href="menu.php">Menu</a> || <a href="login.php">Add user</a>
     	<hr/>
 		</td>
 	</tr>
