@@ -10,3 +10,12 @@ $page_title = "Our Menu"
 require('includes/header.php');
 ?>
 
+<!-- page specific content begins -->
+<h2>Our Menu</h2>
+<p>Feel free to click on the product names to learn more about the flavor!</p>
+<!-- page specific content ends -->
+
+<?php
+//link to external footer file
+require("includes/footer.php");
+?>
